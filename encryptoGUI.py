@@ -158,7 +158,7 @@ try:
 except:
 	pass
 	
-root.geometry   ('480x500+300+200')
+root.geometry   ('570x500+300+200')
 root.title      ("Encrypto v0.7")
 
 
